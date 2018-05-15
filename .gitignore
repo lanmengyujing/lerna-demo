@@ -1,0 +1,15 @@
+.idea
+tmp
+node_modules
+bower_components
+web_modules
+npm-debug.log
+public
+.tmp
+target
+log
+data/*
+*.swp
+*.swo
+.DS_Store
+npm-debug.log.*
