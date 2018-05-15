@@ -3,6 +3,9 @@
   "version": "1.1.0",
   "main": "src/index.js",
   "license": "MIT",
+  "scripts": {
+    "test": "echo 'Running test scripts in Footer module'"
+  },
   "dependencies": {
     "react": "^16.3.2",
     "webpack": "^4.8.3"
